@@ -10,7 +10,6 @@ Claude ile gerçek işlerde ne yaptığımı, neyi denediğimi ve neyin işe yar
 |---|---|
 | [`skills/ticarilestir/`](skills/ticarilestir/SKILL.md) | Bir fikri paraya çevirme eleği (Claude skill'i) |
 | [`docs/yayinlama-kontrol-listesi.md`](docs/yayinlama-kontrol-listesi.md) | Bir şeyi GitHub'a koymadan önce kontrol listem |
-| [`CESARET.md`](CESARET.md) | Korku ve küçük kazanç günlüğüm |
 
 ## Skill'lerim
 
