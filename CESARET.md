@@ -17,7 +17,7 @@ Bu dosya motivasyon konuşması değil, bir çalışma aracı. Korku geldiğinde
 | "Yeterince iyi değilim" | Bildiğim tek bir şeyi 5 cümleyle yaz, yayınla |
 | "Geç kaldım" | Bugün başlayan biriyle değil, bir yıl önceki kendimle kıyasla |
 | "Para kazanamam" | 5 kişiye "bunu ödeyerek kullanır mısın?" diye sor |
-| "Yüzüm kamerada kötü" | 60 saniyelik, kurgusuz bir ses kaydı al |
+| "Hazırlanıyorum ama başlamıyorum" | Bugün 60 saniyelik, kurgusuz bir video çek ve yayınla |
 
 ## Küçük kazanç günlüğü
 
